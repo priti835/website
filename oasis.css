@@ -1,0 +1,83 @@
+body{
+    text-align: center;
+    padding: 7% 15%;
+    
+}
+.container{
+    background-color: #0b0238;
+}
+h1{
+    text-align: center;
+    padding: 7% 15%;
+    font-weight: bold;
+    color:#0b0238;
+}
+h2{
+    color:#0b0238;  
+    margin-top: 100px;
+    font-weight: bold;
+    
+}
+hr{
+    margin-top: 100px;
+    border: solid;
+}
+p{
+    margin-top:10px;
+    text-align: center;
+    color:#0b0238 ;
+    
+}
+.align{
+    padding-left: 20px;
+}
+.btn{
+    background-color:#48487f;
+    color: #fff;
+    
+    margin-top: 50px;
+}
+.image{
+    width: 100%;
+    padding-top: 70px;
+}
+.protect{
+    margin-top: 100px;
+    height: 150px;
+    width: 150px;
+    color:#0b0238 ;
+}
+.information{
+    margin-top: 100px;
+    height: 150px;
+    width: 150px; 
+}
+.vulnerability{
+    margin-top: 100px;
+    height: 150px;
+    width: 150px;  
+    
+}
+.services{
+    color: #fff;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.our-services{
+    background-color:#0b0238  ;
+    color:#fff ;
+    text-align: left;
+    line-height: 30px;
+    font-size: 20px;
+    padding-bottom: 70px;
+}
+.card{
+    margin-top: 80px;
+    color: #0b0238;
+}
+.card-deck{
+    background-color: gray;
+}
+.icon{
+    color: rgb(8, 114, 8);
+}
